@@ -1,0 +1,2 @@
+github es un repositorio remoto
+(donde alojas tu app)
